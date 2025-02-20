@@ -5,7 +5,7 @@
 <ul>
   <li>Tipos de dados, ou dados primitivos</li>
   <li>Operadores Aritméticos</li>
-  <li>Estruturas COndicionais</li>
+  <li>Estruturas Condicionais</li>
   <li>Estruturas de Repetição</li>
   <li>Arrays e ArrayList</li>
 </ul>
