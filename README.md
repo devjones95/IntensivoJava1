@@ -1,5 +1,5 @@
 <h2>Da série Java Intensivo</h2>
-h3>Os primeiros passos que 100% dos desenvolvedores Java precisam dar rumo ao sucesso.
+<h3>Os primeiros passos que 100% dos desenvolvedores Java precisam dar rumo ao sucesso.
 <br>
 <p>Nesse repositório você vai encontrar 5 super aulas direto ao ponto sobre:</p>
 <ul>
